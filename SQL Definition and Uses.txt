@@ -1,0 +1,7 @@
+SQL - (Structured Query Language) is a standard language used to communicate with databases. 
+
+
+usese - It is used to store, retrieve, insert, update, and delete data in a database.
+
+
+SELECT * FROM employees -This query retrieves all records from the employees table.

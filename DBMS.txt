@@ -1,0 +1,5 @@
+DBMS (Database Management System) is software used to create, store, manage, and retrieve data in a database efficiently.
+
+Main Purpose: The main purpose of a DBMS is to organize data, reduce data redundancy, maintain data security, and provide easy access to data.
+
+Examples: MySQL, Oracle, SQL Server, PostgreSQL.

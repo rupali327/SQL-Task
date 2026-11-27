@@ -1,0 +1,12 @@
+Q14. What is a table, and how is it structured?
+ 
+A table is a database object used to store data in an organized format consisting of rows 
+and columns. 
+
+
+Structure of a Table 
+A table consists of three main components: 
+1. Rows (Records): Each row represents a single record. 
+2. Columns (Fields): Each column represents a specific attribute of the data. 
+3. Primary Key: A column or combination of columns that uniquely identifies each 
+   record.

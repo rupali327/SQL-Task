@@ -1,0 +1,8 @@
+• SQL (Structured Query Language) is mainly used to retrieve, manage, and 
+analyze data stored in relational databases.eg. Example: Find customer records
+Uses commands like SELECT, INSERT, UPDATE 
+
+• Python is an interpreted programming language.it's used to automate tasks, analyze data, 
+  build applications, and create AI systems. 
+Example: Build a website or AI program
+Uses programming code like print(), if, for

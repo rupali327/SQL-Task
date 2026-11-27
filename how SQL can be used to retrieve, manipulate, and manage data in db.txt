@@ -1,0 +1,16 @@
+Explain how SQL can be used to retrieve, manipulate, and manage data in a database.
+
+SQL (Structured Query Language) is a programming language used to store, 
+retrieve, manage, and manipulate data in relational databases. 
+
+1.Retrieving Data Using SQL 
+Retrieving data means extracting specific information from a database. 
+The most commonly used command is SELECT. 
+
+2.Manipulating Data Using SQL 
+Data manipulation means adding, modifying, or deleting information in a database. 
+INSERT, UPDATE, DELETE 
+
+3. Managing Data Using SQL 
+SQL also helps create and maintain database structures. 
+CREATE, ALTER, DROP

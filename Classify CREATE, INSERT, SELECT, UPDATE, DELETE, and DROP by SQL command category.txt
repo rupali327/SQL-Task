@@ -1,0 +1,19 @@
+Classify CREATE, INSERT, SELECT, UPDATE, DELETE, and DROP by SQL command category
+
+CREATE → DDL (Data Definition Language)
+ Purpose: Creates tables or databases.
+
+INSERT → DML (Data Manipulation Language)
+ Purpose: Adds new records.
+
+SELECT → DQL (Data Query Language)
+ Purpose: Retrieves data from a database.
+
+UPDATE → DML (Data Manipulation Language)
+ Purpose: Modifies existing records.
+
+DELETE → DML (Data Manipulation Language)
+ Purpose: Removes records.
+
+DROP → DDL (Data Definition Language)
+ Purpose: Deletes tables or databases. 

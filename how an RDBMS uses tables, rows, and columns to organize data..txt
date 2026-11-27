@@ -1,0 +1,15 @@
+Explain how an RDBMS uses tables, rows, and columns to organize data.
+
+
+1.Tables are used to store data in an organized format.
+2.Rows represent individual records in a table.
+3.Columns represent the attributes or fields of the data.
+4.Each table contains related information.
+5.RDBMS uses relationships between tables to connect related data.
+
+
+
+eg 
+Student Id	Name	Age
+10	Rupali	30
+20	Snehal	26

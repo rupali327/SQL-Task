@@ -1,0 +1,26 @@
+What are DDL, DML, DQL, DCL, and TCL? Expand each abbreviation.
+
+DDL (Data Definition Language)
+
+Purpose: Defines and modifies database structure.
+Examples: CREATE, ALTER, DROP, TRUNCATE
+
+DML (Data Manipulation Language)
+
+Purpose: Adds, updates, and deletes data.
+Examples: INSERT, UPDATE, DELETE
+
+DQL (Data Query Language)
+
+Purpose: Retrieves data from a database.
+Example: SELECT
+
+DCL (Data Control Language)
+
+Purpose: Controls database access and permissions.
+Examples: GRANT, REVOKE
+
+TCL (Transaction Control Language)
+
+Purpose: Manages database transactions.
+Examples: COMMIT, ROLLBACK, SAVEPOINT ✅

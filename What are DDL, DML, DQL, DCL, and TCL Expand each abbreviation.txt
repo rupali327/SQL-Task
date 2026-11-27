@@ -23,4 +23,4 @@ Examples: GRANT, REVOKE
 TCL (Transaction Control Language)
 
 Purpose: Manages database transactions.
-Examples: COMMIT, ROLLBACK, SAVEPOINT ✅
+Examples: COMMIT, ROLLBACK, SAVEPOINT 

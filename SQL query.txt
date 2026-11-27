@@ -1,0 +1,7 @@
+What does a SQL query do? Give a simple example.
+
+
+A SQL query is an instruction given to a database to show, add, update, or delete data
+
+eg .SELECT * FROM Customers;
+his query shows all the data from the Customers table in rows and columns. 

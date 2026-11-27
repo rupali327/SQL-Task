@@ -1,0 +1,11 @@
+What is a database object? Name five common database objects.
+
+A database object is a structure in a database that is used to store, manage, organize, or retrieve data.
+
+Five common database objects are:
+
+Table – Stores data in rows and columns.
+View – A virtual table created from a SQL query.
+Index – Improves the speed of data retrieval.
+Sequence – Generates unique numeric values automatically.
+Stored Procedure – A set of SQL statements stored in the database to perform specific tasks.

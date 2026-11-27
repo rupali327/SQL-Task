@@ -1,0 +1,11 @@
+Q10. Describe two advantages and two limitations of using an RDBMS.
+
+Advantages:
+
+1.Provides better data security and integrity.
+2.Supports relationships between tables, making data organization easier.
+
+Limitations:
+
+1Can be complex to design and manage.
+2.May have slower performance with very large databases.
